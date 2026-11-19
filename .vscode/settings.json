@@ -1,9 +1,0 @@
-{
-    "objectscript.conn": {
-        "server": "local_rhel_ucr",
-        "ns": "DEV",
-        "active": true
-    },
-    "objectscript.syncLocalChanges": "none"
-
-}
