@@ -62,7 +62,7 @@ Method Mail() As %Status
     Return sc
 }
 
-// update Connections on Production UI
+//update Connections on Production UI
 
 ClassMethod OnGetConnections(Output pArray As %String, pItem As Ens.Config.Item)
 {
